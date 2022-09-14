@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 import { ViteMinifyPlugin } from 'vite-plugin-minify'
 import babel from 'vite-plugin-babel';
 import path from 'path';
-import { viteStaticCopy } from 'vite-plugin-static-copy';
+/* import { viteStaticCopy } from 'vite-plugin-static-copy'; */
 
 export default defineConfig({
   root: path.join(__dirname, 'src'),

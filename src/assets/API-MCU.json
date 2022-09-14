@@ -1,0 +1,1596 @@
+{
+    "shows": [
+        {
+            "type": "Film",
+            "name": "Iron Man",
+            "releaseDate": [2, 5, 2008],
+            "phase": "Uno",
+            "img": "IronMan1.jpg"
+        },
+        {
+            "type": "Film",
+            "name": "L'incredibile Hulk",
+            "releaseDate": [13, 6, 2008],
+            "phase": "Uno",
+            "img": "Hulk1.jpg"
+        },
+        {
+            "type": "Film",
+            "name": "Iron Man 2",
+            "releaseDate": [7, 5, 2010],
+            "phase": "Uno",
+            "img": "IronMan2.jpg"
+        },
+        {
+            "type": "Film",
+            "name": "Thor",
+            "releaseDate": [6, 5, 2011],
+            "phase": "Uno",
+            "img": "Thor1.jpg"
+        },
+        {
+            "type": "Film",
+            "name": "Captain America: Il Primo Vendicatore",
+            "releaseDate": [22, 7, 2011],
+            "phase": "Uno",
+            "img": "Captainamerica1.jpg"
+        },
+        {
+            "type": "Cortometraggio",
+            "name": "Il Consulente",
+            "releaseDate": [13, 9, 2011],
+            "phase": "Nessuna",
+            "img": "TheConsultant.jpg"
+        },
+        {
+            "type": "Cortometraggio",
+            "name": "Scena comica nel raggiungere il Martello di Thor",
+            "releaseDate": [25, 10, 2011],
+            "phase": "Nessuna",
+            "img": "ThorsHammer.jpg"
+        },
+        {
+            "type": "Film",
+            "name": "The Avengers",
+            "releaseDate": [4, 4, 2012],
+            "phase": "Uno",
+            "img": "Avengers1.jpg"
+        },
+        {
+            "type": "Cortometraggio",
+            "name": "Item 47",
+            "releaseDate": [25, 9, 2012],
+            "phase": "Nessuna",
+            "img": "Item47.jpg"
+        },
+        {
+            "type": "Serie TV",
+            "name": "Agents of S.H.I.E.L.D.",
+            "img": "AoS1.jpg",
+            "phase": "Nessuna",
+            "episodes": [
+                { "season": 1, "episode": 1, "title": "Un nuovo eroe", "releaseDate": [24, 9, 2013]},
+                { "season": 1, "episode": 2, "title": "0-8-4", "releaseDate": [1, 10, 2013]},
+                { "season": 1, "episode": 3, "title": "La risorsa", "releaseDate": [8, 10, 2013]},
+                { "season": 1, "episode": 4, "title": "A occhi chiusi", "releaseDate": [15, 10, 2013]},
+                { "season": 1, "episode": 5, "title": "La ragazza con il vestito a fiori", "releaseDate": [22, 10, 2013] },
+                { "season": 1, "episode": 6, "title": "FZZT", "releaseDate": [5, 11, 2013] },
+                { "season": 1, "episode": 7, "title": "L'Hub", "releaseDate": [12, 11, 2013] },
+                { "season": 1, "episode": 8, "title": "Il pozzo", "releaseDate": [19, 11, 2013] },
+                { "season": 1, "episode": 9, "title": "Lavori in corso", "releaseDate": [26, 11, 2013] },
+                { "season": 1, "episode": 10, "title": "Il ponte", "releaseDate": [10, 12, 2013] },
+                { "season": 1, "episode": 11, "title": "Un posto magico", "releaseDate": [7, 1, 2014] },
+                { "season": 1, "episode": 12, "title": "Origini", "releaseDate": [14, 1, 2014] },
+                { "season": 1, "episode": 13, "title": "Il treno", "releaseDate": [4, 2, 2014] },
+                { "season": 1, "episode": 14, "title": "T.A.H.I.T.I.", "releaseDate": [4, 3, 2014] },
+                { "season": 1, "episode": 15, "title": "Lorelei", "releaseDate": [11, 3, 2014] },
+                { "season": 1, "episode": 16, "title": "La fine del principio", "releaseDate": [1, 4, 2014] },
+                { "season": 1, "episode": 17, "title": "E gira, gira, gira...", "releaseDate": [8, 4, 2014] },
+                { "season": 1, "episode": 18, "title": "Provvidenza", "releaseDate": [15, 4, 2014] },
+                { "season": 1, "episode": 19, "title": "L'unica luce nell'oscurità", "releaseDate": [22, 4, 2014] },
+                { "season": 1, "episode": 20, "title": "Niente di personale", "releaseDate": [29, 4, 2014] },
+                { "season": 1, "episode": 21, "title": "Gentaglia", "releaseDate": [6, 5, 2014] },
+                { "season": 1, "episode": 22, "title": "Il principio della fine", "releaseDate": [13, 5, 2014] },
+
+                { "season": 2, "episode": 1, "title": "Ombre", "releaseDate": [23, 9, 2014] },
+                { "season": 2, "episode": 2, "title": "Inquieto giaccia il capo", "releaseDate": [30, 9, 2014] },
+                { "season": 2, "episode": 3, "title": "Fare amicizia e convincere la gente", "releaseDate": [7, 10, 2014] },
+                { "season": 2, "episode": 4, "title": "Faccia a faccia con il nemico", "releaseDate": [14, 10, 2014] },
+                { "season": 2, "episode": 5, "title": "Una gallina nella tana del lupo", "releaseDate": [11, 10, 2014] },
+                { "season": 2, "episode": 6, "title": "Questioni di famiglia", "releaseDate": [28, 10, 2014] },
+                { "season": 2, "episode": 7, "title": "Le incisioni sul muro", "releaseDate": [11, 11, 2014] },
+                { "season": 2, "episode": 8, "title": "Quello che seppelliamo", "releaseDate": [18, 11, 2014] },
+                { "season": 2, "episode": 9, "title": "...Voi ch'entrate", "releaseDate": [2, 12, 2014] },
+                { "season": 2, "episode": 10, "title": "Ciò che diventano", "releaseDate": [9, 12, 2014] },
+                { "season": 2, "episode": 11, "title": "Scosse di assestamento", "releaseDate": [3, 3, 2015] },
+                { "season": 2, "episode": 12, "title": "Chi sei veramente", "releaseDate": [10, 3, 2015] },
+                { "season": 2, "episode": 13, "title": "Uno di noi", "releaseDate": [17, 3, 2015] },
+                { "season": 2, "episode": 14, "title": "L'amore ai tempi dell'Hydra", "releaseDate": [24, 3, 2015] },
+                { "season": 2, "episode": 15, "title": "Si chiude una porta", "releaseDate": [31, 3, 2015] },
+                { "season": 2, "episode": 16, "title": "Aldilà", "releaseDate": [7, 4, 2015] },
+                { "season": 2, "episode": 17, "title": "Melinda", "releaseDate": [14, 4, 2015] },
+                { "season": 2, "episode": 18,"title": "Nemico amico del mio nemico",  "releaseDate": [21, 4, 2015] },
+                { "season": 2, "episode": 19, "title": "Quella sporca mezza dozzina", "releaseDate": [28, 4, 2015] },
+                { "season": 2, "episode": 20, "title": "Cicatrici", "releaseDate": [5, 5, 2015] },
+                { "season": 2, "episode": 21, "title": "S.O.S. Parte 1", "releaseDate": [12, 5, 2015] },
+                { "season": 2, "episode": 22, "title": "S.O.S. Parte 2", "releaseDate": [12, 5, 2015] },
+
+                { "season": 3, "episode": 1, "title": "Leggi di natura", "releaseDate": [29, 9, 2015] },
+                { "season": 3, "episode": 2, "title": "Lo scopo della macchina", "releaseDate": [6, 10, 2015] },
+                { "season": 3, "episode": 3, "title": "Un (In)umano ricercato", "releaseDate": [13, 10, 2015] },
+                { "season": 3, "episode": 4, "title": "I demoni che conosci", "releaseDate": [20, 10, 2015] },
+                { "season": 3, "episode": 5, "title": "4,722 ore", "releaseDate": [27, 10, 2015]  },
+                { "season": 3, "episode": 6, "title": "Tra di noi si nasconde...", "releaseDate": [3, 11, 2015]  },
+                { "season": 3, "episode": 7, "title": "La teoria del caos", "releaseDate": [10, 11, 2015]  },
+                { "season": 3, "episode": 8, "title": "Molte teste, una storia", "releaseDate": [17, 11, 2015]  },
+                { "season": 3, "episode": 9, "title": "Chiusura", "releaseDate": [1, 12, 2015]  },
+                { "season": 3, "episode": 10, "title": "Maveth", "releaseDate": [8, 12, 2015]  },
+                { "season": 3, "episode": 11, "title": "Rimbalzare indietro", "releaseDate": [8, 3, 2016]  },
+                { "season": 3, "episode": 12, "title": "L'infiltrato", "releaseDate": [15, 3, 2016]  },
+                { "season": 3, "episode": 13, "title": "L'addio delle spie", "releaseDate": [22, 3, 2016]  },
+                { "season": 3, "episode": 14, "title": "Cani da guardia", "releaseDate": [29, 3, 2016]  },
+                { "season": 3, "episode": 15, "title": "Spazio-tempo", "releaseDate": [5, 4, 2016]  },
+                { "season": 3, "episode": 16, "title": "Paradiso perduto", "releaseDate": [12, 4, 2016]  },
+                { "season": 3, "episode": 17, "title": "La squadra", "releaseDate": [19, 4, 2016]  },
+                { "season": 3, "episode": 18, "title": "La singolarità", "releaseDate": [26, 4, 2016]  },
+                { "season": 3, "episode": 19, "title": "Esperimenti falliti", "releaseDate": [3, 5, 2016]  },
+                { "season": 3, "episode": 20, "title": "Emancipazione", "releaseDate": [10, 5, 2016]  },
+                { "season": 3, "episode": 21, "title": "Assoluzione", "releaseDate": [17, 5, 2016]  },
+                { "season": 3, "episode": 22, "title": "Ascensione", "releaseDate": [17, 5, 2016]  },
+
+                { "season": 4, "episode": 1, "title": "Il fantasma", "releaseDate": [20, 9, 2016] },
+                { "season": 4, "episode": 2, "title": "Il nuovo capo", "releaseDate": [27, 9, 2016] },
+                { "season": 4, "episode": 3, "title": "Rivolta", "releaseDate": [11, 10, 2016] },
+                {
+                    "season": 4,
+                    "episode": 4,
+                    "title": "Fammi stare accanto al tuo fuoco",
+                    "releaseDate": [18, 10, 2016] },
+                { "season": 4, "episode": 5, "title": "Sotto chiave", "releaseDate": [25, 10, 2016] },
+                { "season": 4, "episode": 6, "title": "Il buon samaritano", "releaseDate": [1, 11, 2016] },
+                {
+                    "season": 4,
+                    "episode": 7,
+                    "title": "Patti con i nostri demoni",
+                    "releaseDate": [29, 11, 2016] },
+                {
+                    "season": 4,
+                    "episode": 8,
+                    "title": "Le leggi dell'infernodinamica",
+                    "releaseDate": [2016, 12, 6] },
+                { "season": 4, "episode": 9, "title": "Promesse infrante", "releaseDate": [10, 1, 2017] },
+                { "season": 4, "episode": 10, "title": "Il patriota", "releaseDate": [17, 1, 2017] },
+                { "season": 4, "episode": 11, "title": "Svegliatevi", "releaseDate": [24, 1, 2017] },
+                { "season": 4, "episode": 12, "title": "Zuppa di patata bollente", "releaseDate": [31, 1, 2017] },
+                { "season": 4, "episode": 13, "title": "BuM", "releaseDate": [7, 2, 2017] },
+                {
+                    "season": 4,
+                    "episode": 14,
+                    "title": "L'uomo dietro lo S.H.I.E.L.D.",
+                    "releaseDate": [14, 2, 2017]
+                },
+                { "season": 4, "episode": 15, "title": "Autocontrollo", "releaseDate": [21, 2, 2017] },
+                { "season": 4, "episode": 16, "title": "E se...", "releaseDate": [4, 4, 2017] },
+                { "season": 4, "episode": 17, "title": "Identità e cambiamento", "releaseDate": [11, 4, 2017] },
+                { "season": 4, "episode": 18, "title": "Nessun rimpianto", "releaseDate": [18, 4, 2017] },
+                { "season": 4, "episode": 19, "title": "Tutti gli uomini di Madame", "releaseDate": [25, 4, 2017] },
+                {
+                    "season": 4,
+                    "episode": 20,
+                    "title": "Addio, mondo crudele!",
+                    "releaseDate": [2, 5, 2017]
+                },
+                { "season": 4, "episode": 21, "title": "Il ritorno", "releaseDate": [9, 5, 2017] },
+                { "season": 4, "episode": 22, "title": "La fine del mondo", "releaseDate": [16, 5, 2017] },
+
+                { "season": 5, "episode": 1, "title": "Orientarsi - Prima parte", "releaseDate": [1, 12, 2017] },
+                { "season": 5, "episode": 2, "title": "Orientarsi - Seconda parte", "releaseDate": [1, 12, 2017] },
+                { "season": 5, "episode": 3, "title": "Una vita persa", "releaseDate": [8, 12, 2017] },
+                { "season": 5, "episode": 4, "title": "Una vita guadagnata", "releaseDate": [15, 12, 2017] },
+                { "season": 5, "episode": 5, "title": "Rewind", "releaseDate": [22, 12, 2017] },
+                { "season": 5, "episode": 6, "title": "Giochi e divertimento", "releaseDate": [5, 1, 2018] },
+                {
+                    "season": 5,
+                    "episode": 7,
+                    "title": "O insieme o per niente",
+                    "releaseDate": [12, 1, 2018]
+                },
+                { "season": 5, "episode": 8, "title": "L'ultimo giorno", "releaseDate": [19, 1, 2018] },
+                { "season": 5, "episode": 9, "title": "I migliori piani", "releaseDate": [26, 1, 2018] },
+                { "season": 5, "episode": 10, "title": "Nel passato", "releaseDate": [2, 2, 2018] },
+                {
+                    "season": 5,
+                    "episode": 11,
+                    "title": "Tutte le comodità di casa",
+                    "releaseDate": [2, 3, 2018]
+                },
+                { "season": 5, "episode": 12, "title": "Il vero patto", "releaseDate": [9, 3, 2018] },
+                { "season": 5, "episode": 13, "title": "La Principia", "releaseDate": [16, 3, 2018] },
+                {
+                    "season": 5,
+                    "episode": 14,
+                    "title": "Il complesso del diavolo",
+                    "releaseDate": [23, 3, 2018]
+                },
+                { "season": 5, "episode": 15, "title": "È ora di alzarsi", "releaseDate": [30, 3, 2018] },
+                { "season": 5, "episode": 16, "title": "Voci interiori", "releaseDate": [6, 4, 2018] },
+                { "season": 5, "episode": 17, "title": "La luna di miele", "releaseDate": [13, 4, 2018] },
+                {
+                    "season": 5,
+                    "episode": 18,
+                    "title": "Tutte le strade portano...",
+                    "releaseDate": [20, 4, 2018]
+                },
+                { "season": 5, "episode": 19, "title": "Opzione due", "releaseDate": [27, 4, 2018] },
+                {
+                    "season": 5,
+                    "episode": 20,
+                    "title": "Colui che ci salverà tutti",
+                    "releaseDate": [4, 5, 2018]
+                },
+                {
+                    "season": 5,
+                    "episode": 21,
+                    "title": "La forza di gravità",
+                    "releaseDate": [11, 5, 2018]
+                },
+                { "season": 5, "episode": 22, "title": "La fine", "releaseDate": [18, 5, 2018] },
+
+                { "season": 6, "episode": 1, "title": "Pezzi mancanti", "releaseDate": [10, 5, 2019] },
+                {
+                    "season": 6,
+                    "episode": 2,
+                    "title": "Gamma di possibilità",
+                    "releaseDate": [17, 5, 2019]
+                },
+                {
+                    "season": 6,
+                    "episode": 3,
+                    "title": "Paura e disgusto sul pianeta di Kitson",
+                    "releaseDate": [24, 5, 2019]
+                },
+                { "season": 6, "episode": 4, "title": "Codice giallo", "releaseDate": [31, 5, 2019] },
+                { "season": 6, "episode": 5, "title": "L'altra cosa", "releaseDate": [14, 6, 2019] },
+                { "season": 6, "episode": 6, "title": "Inevitabile", "releaseDate": [21, 6, 2019] },
+                { "season": 6, "episode": 7, "title": "Te l'avevo detto", "releaseDate": [28, 6, 2019] },
+                {
+                    "season": 6,
+                    "episode": 8,
+                    "title": "Rotta di collisione (1ª parte)",
+                    "releaseDate": [5, 7, 2019]
+                },
+                {
+                    "season": 6,
+                    "episode": 9,
+                    "title": "Rotta di collisione (2ª parte)",
+                    "releaseDate": [12, 7, 2019]
+                },
+                { "season": 6, "episode": 10, "title": "Salto", "releaseDate": [19, 7, 2019] },
+                { "season": 6, "episode": 11, "title": "Dalle ceneri", "releaseDate": [26, 7, 2019] },
+                { "season": 6, "episode": 12, "title": "Dalle ceneri", "releaseDate": [3, 8, 2019] },
+                { "season": 6, "episode": 13, "title": "Nuova vita", "releaseDate": [10, 8, 2019] },
+
+                { "season": 7, "episode": 1, "title": "Il nuovo corso", "releaseDate": [27, 5, 2020] },
+                { "season": 7, "episode": 2, "title": "Sai il fatto tuo", "releaseDate": [3, 6, 2020] },
+                {
+                    "season": 7,
+                    "episode": 3,
+                    "title": "Comunisti alieni dal futuro!",
+                    "releaseDate": [10, 6, 2020]
+                },
+                { "season": 7, "episode": 4, "title": "Fuori dal passato", "releaseDate": [17, 6, 2020] },
+                {
+                    "season": 7,
+                    "episode": 5,
+                    "title": "Una trota nel latte",
+                    "releaseDate": [24, 6, 2020]
+                },
+                { "season": 7, "episode": 6, "title": "Adattati o muori", "releaseDate": [1, 7, 2020] },
+                {
+                    "season": 7,
+                    "episode": 7,
+                    "title": "Le mirabolanti avventure di Mack e D",
+                    "releaseDate": [8, 7, 2020]
+                },
+                { "season": 7, "episode": 8, "title": "Dopo, prima", "releaseDate": [15, 7, 2020] },
+                {
+                    "season": 7,
+                    "episode": 9,
+                    "title": "Come sono sempre stato",
+                    "releaseDate": [22, 7, 2020]
+                },
+                { "season": 7, "episode": 10, "title": "Rubati", "releaseDate": [29, 7, 2020] },
+                { "season": 7, "episode": 11, "title": "Un nuovo giorno", "releaseDate": [5, 8, 2020] },
+                {
+                    "season": 7,
+                    "episode": 12,
+                    "title": "La fine è vicina",
+                    "releaseDate": [12, 8, 2020]
+                },
+                {
+                    "season": 7,
+                    "episode": 13,
+                    "title": "Ciò per cui lottiamo",
+                    "releaseDate": [12, 8, 2020]
+                }
+            ]
+        },
+        {
+            "type": "Film",
+            "name": "Iron Man 3",
+            "releaseDate": [3, 5, 2013],
+            "phase": "Due",
+            "img": "IronMan3.jpg"
+        },
+        {
+            "type": "Cortometraggio",
+            "name": "Agente Carter",
+            "releaseDate": [3, 9, 2013],
+            "phase": "Nessuna",
+            "img": "AgentCarter.jpg"
+        },
+        {
+            "type": "Film",
+            "name": "Thor: The Dark World",
+            "releaseDate": [8, 11, 2013],
+            "phase": "Due",
+            "img": "Thor2.jpg"
+        },
+        {
+            "type": "Cortometraggio",
+            "name": "All Hail the King",
+            "releaseDate": [4, 2, 2014],
+            "phase": "Nessuna",
+            "img": "AllHailTheKing.jpg"
+        },
+        {
+            "type": "Film",
+            "name": "Captain America: The Winter Soldier",
+            "releaseDate": [4, 4, 2014],
+            "phase": "Due",
+            "img": "Captainamerica2.jpg"
+        },
+        {
+            "type": "Film",
+            "name": "Guardiani della Galassia",
+            "releaseDate": [1, 8, 2014],
+            "phase": "Due",
+            "img": "Guardians1.jpg"
+        },
+        {
+            "type": "Serie TV",
+            "name": "Agent Carter",
+            "img": "AgentCarter1.jpg",
+            "phase": "Nessuna",
+            "episodes": [
+                {
+                    "season": 1,
+                    "episode": 1,
+                    "title": "Questa non è la fine",
+                    "releaseDate": [6, 1, 2015]
+                },
+                {
+                    "season": 1,
+                    "episode": 2,
+                    "title": "In periferia",
+                    "releaseDate": [6, 1, 2015]
+                },
+                {
+                    "season": 1,
+                    "episode": 3,
+                    "title": "Appena in tempo",
+                    "releaseDate": [13, 1, 2015]
+                },
+                {
+                    "season": 1,
+                    "episode": 4,
+                    "title": "Il pulsante Blitzkrieg",
+                    "releaseDate": [27, 1, 2015]
+                },
+                {
+                    "season": 1,
+                    "episode": 5,
+                    "title": "Il soffitto di ferro",
+                    "releaseDate": [3, 2, 2015]
+                },
+                {
+                    "season": 1,
+                    "episode": 6,
+                    "title": "Un peccato sbagliare",
+                    "releaseDate": [10, 2, 2015]
+                },
+                {
+                    "season": 1,
+                    "episode": 7,
+                    "title": "L'apparenza inganna",
+                    "releaseDate": [17, 2, 2015]
+                },
+                {
+                    "season": 1,
+                    "episode": 8,
+                    "title": "Commiato",
+                    "releaseDate": [24, 2, 2015]
+                },
+
+                {
+                    "season": 2,
+                    "episode": 1,
+                    "title": "La donna nel lago",
+                    "releaseDate": [19, 1, 2016]
+                },
+                {
+                    "season": 2,
+                    "episode": 2,
+                    "title": "Uno sguardo nel buio",
+                    "releaseDate": [19, 1, 2016]
+                },
+                {
+                    "season": 2,
+                    "episode": 3,
+                    "title": "Angeli migliori",
+                    "releaseDate": [26, 1, 2016]
+                },
+                {
+                    "season": 2,
+                    "episode": 4,
+                    "title": "Fumo negli occhi",
+                    "releaseDate": [2, 2, 2016]
+                },
+                {
+                    "season": 2,
+                    "episode": 5,
+                    "title": "Operazione bomba atomica",
+                    "releaseDate": [9, 2, 2016]
+                },
+                {
+                    "season": 2,
+                    "episode": 6,
+                    "title": "L'anima della festa",
+                    "releaseDate": [16, 2, 2016]
+                },
+                {
+                    "season": 2,
+                    "episode": 7,
+                    "title": "Mostri",
+                    "releaseDate": [16, 2, 2016]
+                },
+                {
+                    "season": 2,
+                    "episode": 8,
+                    "title": "Il culmine del mistero",
+                    "releaseDate": [23, 2, 2016]
+                },
+                {
+                    "season": 2,
+                    "episode": 9,
+                    "title": "Si canta e si balla un po'",
+                    "releaseDate": [23, 2, 2016]
+                },
+                {
+                    "season": 2,
+                    "episode": 10,
+                    "title": "Finale Hollywoodiano",
+                    "releaseDate": [1, 3, 2016]
+                }
+            ]
+        },
+        {
+            "type": "Web Serie",
+            "name": "WHIH Newsfront",
+            "img": "WHIH1.jpg",
+            "phase": "Nessuna",
+            "episodes": [
+                {
+                    "season": 1,
+                    "episode": 1,
+                    "title": "WHIH Newsfront Promo",
+                    "releaseDate": [2, 7, 2015]
+                },
+                {
+                    "season": 1,
+                    "episode": 2,
+                    "title": "WHIH Newsfront Top Stories",
+                    "releaseDate": [7, 7, 2015]
+                },
+                {
+                    "season": 1,
+                    "episode": 3,
+                    "title": "WHIH EXCLUSIVE: 2012 VistaCorp break-in security footage involving cyber-criminal Scott Lang",
+                    "releaseDate": [11, 7, 2015]
+                },
+                {
+                    "season": 1,
+                    "episode": 4,
+                    "title": "WIRED Insider Interviews Darren Cross, CEO of Pym Technologies",
+                    "releaseDate": [13, 7, 2015]
+                },
+                {
+                    "season": 1,
+                    "episode": 5,
+                    "title": "WHIH EXCLUSIVE: Scott Lang Interview",
+                    "releaseDate": [16, 7, 2015]
+                },
+
+                {
+                    "season": 2,
+                    "episode": 1,
+                    "title": "AVENGERS IMPACT: A WHIH Newsfront Special Report",
+                    "releaseDate": [22, 4, 2016]
+                },
+                {
+                    "season": 2,
+                    "episode": 2,
+                    "title": "WHIH Newsfront: The Cost of Saving the World",
+                    "releaseDate": [26, 4, 2016]
+                },
+                {
+                    "season": 2,
+                    "episode": 3,
+                    "title": "WHIH Newsfront: The Avengers and The White House",
+                    "releaseDate": [28, 4, 2016]
+                },
+                {
+                    "season": 2,
+                    "episode": 4,
+                    "title": "WHIH Newsfront Exclusive: President Ellis Discusses the Avengers",
+                    "releaseDate": [3, 5, 2016]
+                },
+                {
+                    "season": 2,
+                    "episode": 5,
+                    "title": "WHIH Breaking News: Attack in Lagos",
+                    "releaseDate": [3, 5, 2016]
+                }
+            ]
+        },
+        {
+            "type": "Serie TV",
+            "name": "Daredevil",
+            "img": "Daredevil1.jpg",
+            "phase": "Nessuna",
+            "episodes": [
+                { "season": 1, "episode": 1, "title": "Sul Ring", "releaseDate": [10, 4, 2015] },
+                { "season": 1, "episode": 2, "title": "Un improbabile alleato", "releaseDate": [10, 4, 2015] },
+                { "season": 1, "episode": 3, "title": "Un coniglio in una tempesta di neve", "releaseDate": [10, 4, 2015] },
+                { "season": 1, "episode": 4, "title": "Nel sangue", "releaseDate": [10, 4, 2015] },
+                { "season": 1, "episode": 5, "title": "Un mondo in fiamme", "releaseDate": [10, 4, 2015] },
+                { "season": 1, "episode": 6, "title": "Condannati", "releaseDate": [10, 4, 2015] },
+                { "season": 1, "episode": 7, "title": "Stick", "releaseDate": [10, 4, 2015] },
+                { "season": 1, "episode": 8, "title": "Nell'ombra", "releaseDate": [10, 4, 2015] },
+                { "season": 1, "episode": 9, "title": "Parli del diavolo", "releaseDate": [10, 4, 2015] },
+                { "season": 1, "episode": 10, "title": "Nelson contro Murdock", "releaseDate": [10, 4, 2015] },
+                {"season": 1, "episode": 11, "title": "Il sentiero dei giusti", "releaseDate": [10, 4, 2015] },
+                {"season": 1, "episode": 12, "title": "Quelli che ci lasciamo alle spalle", "releaseDate": [10, 4, 2015] },
+                {"season": 1, "episode": 13, "title": "Daredevil", "releaseDate": [10, 4, 2015] },
+
+                { "season": 2, "episode": 1, "title": "Bang!", "releaseDate": [18, 3, 2016] },
+                { "season": 2, "episode": 2, "title": "Cani a una sparatoria", "releaseDate": [18, 3, 2016] },
+                { "season": 2, "episode": 3, "title": "Il meglio di New York", "releaseDate": [18, 3, 2016] },
+                { "season": 2, "episode": 4, "title": "Penny e decino", "releaseDate": [18, 3, 2016] },
+                { "season": 2, "episode": 5, "title": "Kinbaku", "releaseDate": [18, 3, 2016] },
+                { "season": 2, "episode": 6, "title": "Solo rimpianti", "releaseDate": [18, 3, 2016] },
+                { "season": 2, "episode": 7, "title": "Semper Fidelis", "releaseDate": [18, 3, 2016] },
+                { "season": 2, "episode": 8, "title": "Colpevole come il peccato", "releaseDate": [18, 3, 2016] },
+                {
+                    "season": 2,
+                    "episode": 9,
+                    "title": "Sette minuti in Paradiso",
+                    "releaseDate": [18, 3, 2016]
+                },
+                { "season": 2, "episode": 10, "title": "L'uomo nella cassa", "releaseDate": [18, 3, 2016] },
+                { "season": 2, "episode": 11, "title": ".380", "releaseDate": [18, 3, 2016] },
+                {
+                    "season": 2,
+                    "episode": 12,
+                    "title": "Il buio in fondo al tunnel",
+                    "releaseDate": [18, 3, 2016]
+                },
+                {
+                    "season": 2,
+                    "episode": 13,
+                    "title": "Una giornata fredda a Hell's Kitchen",
+                    "releaseDate": [18, 3, 2016]
+                },
+
+                { "season": 3, "episode": 1, "title": "Resurrezione", "releaseDate": [19, 10, 2018] },
+                { "season": 3, "episode": 2, "title": "Ti prego", "releaseDate": [19, 10, 2018] },
+                { "season": 3, "episode": 3, "title": "Il castigo", "releaseDate": [19, 10, 2018] },
+                { "season": 3, "episode": 4, "title": "Sorprese", "releaseDate": [19, 10, 2018] },
+                { "season": 3, "episode": 5, "title": "La partita perfetta", "releaseDate": [19, 10, 2018] },
+                {
+                    "season": 3,
+                    "episode": 6,
+                    "title": "Una vecchia conoscenza",
+                    "releaseDate": [19, 10, 2018]
+                },
+                { "season": 3, "episode": 7, "title": "Conseguenze", "releaseDate": [19, 10, 2018] },
+                {
+                    "season": 3,
+                    "episode": 8,
+                    "title": "Sopra e sotto",
+                    "releaseDate": [19, 10, 2018]
+                },
+                { "season": 3, "episode": 9, "title": "Rivelazioni", "releaseDate": [19, 10, 2018] },
+                { "season": 3, "episode": 10, "title": "Karen", "releaseDate": [19, 10, 2018] },
+                { "season": 3, "episode": 11, "title": "L'unione", "releaseDate": [19, 10, 2018] },
+                { "season": 3, "episode": 12, "title": "Un ultimo tentativo", "releaseDate": [19, 10, 2018] },
+                { "season": 3, "episode": 13, "title": "Un pezzo di carta", "releaseDate": [19, 10, 2018] }
+            ]
+        },
+        {
+            "type": "Serie TV",
+            "name": "Jessica Jones",
+            "img": "JessicaJones1.jpg",
+            "phase": "Nessuna",
+            "episodes": [
+                { "season": 1, "episode": 1, "title": "Le signore bevono gratis", "releaseDate": [20, 11, 2015] },
+                { "season": 1, "episode": 2, "title": "Sindrome da schiacciamento", "releaseDate": [20, 11, 2015] },
+                {
+                    "season": 1,
+                    "episode": 3,
+                    "title": "Si chiama whiskey",
+                    "releaseDate": [20, 11, 2015]
+                },
+                { "season": 1, "episode": 4, "title": "99 amici", "releaseDate": [20, 11, 2015] },
+                {
+                    "season": 1,
+                    "episode": 5,
+                    "title": "Il panino mi ha salvata",
+                    "releaseDate": [20, 11, 2015]
+                },
+                { "season": 1, "episode": 6, "title": "Sei il nostro vincitore!", "releaseDate": [20, 11, 2015] },
+                {
+                    "season": 1,
+                    "episode": 7,
+                    "title": "Irrecuperabili",
+                    "releaseDate": [20, 11, 2015]
+                },
+                { "season": 1, "episode": 8, "title": "Che cosa farebbe Jessica?", "releaseDate": [20, 11, 2015] },
+                { "season": 1, "episode": 9, "title": "Penalità", "releaseDate": [20, 11, 2015] },
+                { "season": 1, "episode": 10, "title": "Mille pugnalates", "releaseDate": [20, 11, 2015] },
+                {
+                    "season": 1,
+                    "episode": 11,
+                    "title": "Pillole blu",
+                    "releaseDate": [20, 11, 2015]
+                },
+                {
+                    "season": 1,
+                    "episode": 12,
+                    "title": "Prendi il numero",
+                    "releaseDate": [20, 11, 2015]
+                },
+                { "season": 1, "episode": 13, "title": "Sorridi", "releaseDate": [20, 11, 2015] },
+
+                {
+                    "season": 2,
+                    "episode": 1,
+                    "title": "Partiamo dal principio",
+                    "releaseDate": [8, 3, 2018]
+                },
+                { "season": 2, "episode": 2, "title": "Uno strano incidente", "releaseDate": [8, 3, 2018] },
+                { "season": 2, "episode": 3, "title": "L'unica sopravvissuta", "releaseDate": [8, 3, 2018] },
+                {
+                    "season": 2,
+                    "episode": 4,
+                    "title": "Povero il vagabondo che...",
+                    "releaseDate": [8, 3, 2018]
+                },
+                { "season": 2, "episode": 5, "title": "Il polpo", "releaseDate": [8, 3, 2018] },
+                { "season": 2, "episode": 6, "title": "Faccia a faccia", "releaseDate": [8, 3, 2018] },
+                {
+                    "season": 2,
+                    "episode": 7,
+                    "title": "I Want Your Cray Cray",
+                    "releaseDate": [8, 3, 2018]
+                },
+                {
+                    "season": 2,
+                    "episode": 8,
+                    "title": "Non ci siamo divertiti",
+                    "releaseDate": [8, 3, 2018]
+                },
+                {
+                    "season": 2,
+                    "episode": 9,
+                    "title": "Uno squalo nel bagno, un mostro nel letto",
+                    "releaseDate": [8, 3, 2018]
+                },
+                { "season": 2, "episode": 10, "title": "Cotoletta di maiale", "releaseDate": [8, 3, 2018] },
+                {
+                    "season": 2,
+                    "episode": 11,
+                    "title": "Non ti fermerai più",
+                    "releaseDate": [8, 3, 2018]
+                },
+                {
+                    "season": 2,
+                    "episode": 12,
+                    "title": "Pregate per Patsy",
+                    "releaseDate": [8, 3, 2018]
+                },
+                { "season": 2, "episode": 13, "title": "Luna park", "releaseDate": [8, 3, 2018] },
+
+                {
+                    "season": 3,
+                    "episode": 1,
+                    "title": "L'hamburger perfetto",
+                    "releaseDate": [14, 6, 2019]
+                },
+                {
+                    "season": 3,
+                    "episode": 2,
+                    "title": "Prego!",
+                    "releaseDate": [14, 6, 2019]
+                },
+                {
+                    "season": 3,
+                    "episode": 3,
+                    "title": "Non ho più la milza",
+                    "releaseDate": [14, 6, 2019]
+                },
+                {
+                    "season": 3,
+                    "episode": 4,
+                    "title": "Servizio clienti",
+                    "releaseDate": [14, 6, 2019]
+                },
+                { "season": 3, "episode": 5, "title": "Vorrei...", "releaseDate": [14, 6, 2019] },
+                { "season": 3, "episode": 6, "title": "Faccia dispiaciuta", "releaseDate": [14, 6, 2019] },
+                {
+                    "season": 3,
+                    "episode": 7,
+                    "title": "Il doppio mezzo wappinger",
+                    "releaseDate": [14, 6, 2019]
+                },
+                {
+                    "season": 3,
+                    "episode": 8,
+                    "title": "Amica della telecamera",
+                    "releaseDate": [14, 6, 2019]
+                },
+                {
+                    "season": 3,
+                    "episode": 9,
+                    "title": "Oggi ho fatto qualcosa",
+                    "releaseDate": [14, 6, 2019]
+                },
+                { "season": 3, "episode": 10, "title": "Nei panni dell'eroe", "releaseDate": [14, 6, 2019] },
+                { "season": 3, "episode": 11, "title": "Hellcat", "releaseDate": [14, 6, 2019] },
+                {
+                    "season": 3,
+                    "episode": 12,
+                    "title": "Un sacco di vermi",
+                    "releaseDate": [14, 6, 2019]
+                },
+                { "season": 3, "episode": 13, "title": "Dare tutto", "releaseDate": [14, 6, 2019] }
+            ]
+        },
+        {
+            "type": "Film",
+            "name": "The Avengers: Age of Ultron",
+            "releaseDate": [1, 5, 2015],
+            "phase": "Due",
+            "img": "Avengers2.jpg"
+        },
+        {
+            "type": "Film",
+            "name": "Ant-Man",
+            "releaseDate": [17, 7, 2015],
+            "phase": "Due",
+            "img": "AntMan1.jpg"
+        },
+        {
+            "type": "Web Serie",
+            "name": "Agents of S.H.I.E.L.D.: Slingshot",
+            "img": "Slingshot.jpg",
+            "phase": "Nessuna",
+            "episodes": [
+                { "season": 1, "episode": 1, "title": "Vendetta", "releaseDate": [13, 12, 2016] },
+                { "season": 1, "episode": 2, "title": "John Hancock", "releaseDate": [13, 12, 2016] },
+                { "season": 1, "episode": 3, "title": "Progress", "releaseDate": [13, 12, 2016] },
+                { "season": 1, "episode": 4, "title": "Reunion", "releaseDate": [13, 12, 2016] },
+                { "season": 1, "episode": 5, "title": "Deal Breaker", "releaseDate": [13, 12, 2016] },
+                { "season": 1, "episode": 6, "title": "Justicia", "releaseDate": [13, 12, 2016] }
+            ]
+        },
+        {
+            "type": "Serie TV",
+            "name": "Luke Cage",
+            "img": "LukeCage1.jpg",
+            "phase": "Nessuna",
+            "episodes": [
+                { "season": 1, "episode": 1, "title": "Il momento della verità", "releaseDate": [30, 9, 2016] },
+                { "season": 1, "episode": 2, "title": "Il codice delle strade", "releaseDate": [30, 9, 2016] },
+                {
+                    "season": 1,
+                    "episode": 3,
+                    "title": "Chi se ne assumerà il peso?",
+                    "releaseDate": [30, 9, 2016]
+                },
+                { "season": 1, "episode": 4, "title": "Entra nell'arena", "releaseDate": [30, 9, 2016] },
+                { "season": 1, "episode": 5, "title": "Basta ottenere un rappresentante", "releaseDate": [30, 9, 2016] },
+                {
+                    "season": 1,
+                    "episode": 6,
+                    "title": "I falliti hanno bisogno di guardie del corpo",
+                    "releaseDate": [30, 9, 2016]
+                },
+                { "season": 1, "episode": 7, "title": "Manifestare", "releaseDate": [30, 9, 2016] },
+                { "season": 1, "episode": 8, "title": "Far saltare in aria il posto", "releaseDate": [30, 9, 2016] },
+                { "season": 1, "episode": 9, "title": "DWYCK", "releaseDate": [30, 9, 2016] },
+                { "season": 1, "episode": 10, "title": "Prendila sul personale", "releaseDate": [30, 9, 2016] },
+                { "season": 1, "episode": 11, "title": "Ora sei mio", "releaseDate": [30, 9, 2016] },
+                { "season": 1, "episode": 12, "title": "Soliloquio del caos", "releaseDate": [30, 9, 2016] },
+                { "season": 1, "episode": 13, "title": "Conosci il mio stile", "releaseDate": [30, 9, 2016] },
+
+                { "season": 2, "episode": 1, "title": "Fratello #1", "releaseDate": [22, 6, 2018] },
+                { "season": 2, "episode": 2, "title": "Sistemare le cose", "releaseDate": [22, 6, 2018] },
+                { "season": 2, "episode": 3, "title": "Apparenze", "releaseDate": [22, 6, 2018] },
+                { "season": 2, "episode": 4, "title": "Divento fisico", "releaseDate": [22, 6, 2018] },
+                { "season": 2, "episode": 5, "title": "Dare via l'anima per tutto", "releaseDate": [22, 6, 2018] },
+                { "season": 2, "episode": 6, "title": "Il seminterrato", "releaseDate": [22, 6, 2018] },
+                { "season": 2, "episode": 7, "title": "All'infinito", "releaseDate": [22, 6, 2018] },
+                {
+                    "season": 2,
+                    "episode": 8,
+                    "title": "Se non è dura, non va bene",
+                    "releaseDate": [22, 6, 2018]
+                },
+                { "season": 2, "episode": 9, "title": "Per l'amor del cielo", "releaseDate": [22, 6, 2018] },
+                {
+                    "season": 2,
+                    "episode": 10,
+                    "title": "L'ingrediente principale",
+                    "releaseDate": [22, 6, 2018]
+                },
+                { "season": 2, "episode": 11, "title": "Il creatore", "releaseDate": [22, 6, 2018] },
+                {
+                    "season": 2,
+                    "episode": 12,
+                    "title": "Non posso affrontarlo",
+                    "releaseDate": [22, 6, 2018]
+                },
+                {
+                    "season": 2,
+                    "episode": 13,
+                    "title": "Ti riportano alla memoria",
+                    "releaseDate": [22, 6, 2018]
+                }
+            ]
+        },
+        {
+            "type": "Film",
+            "name": "Captain America: Civil War",
+            "releaseDate": [6, 5, 2016],
+            "phase": "Tre",
+            "img": "Captainamerica3.jpg"
+        },
+        {
+            "type": "Cortometraggio",
+            "name": "Team Thor",
+            "phase": "Nessuna",
+            "img": "TeamThor1.jpg",
+            "releaseDate": [28, 8, 2016]
+        },
+        {
+            "type": "Film",
+            "name": "Doctor Strange",
+            "releaseDate": [4, 11, 2016],
+            "phase": "Tre",
+            "img": "DrStrange1.jpg"
+        },
+        {
+            "type": "Serie TV",
+            "name": "Inhumans",
+            "img": "Inhumans1.jpg",
+            "phase": "Nessuna",
+            "episodes": [
+                {
+                    "season": 1,
+                    "episode": 1,
+                    "title": "Guardate gli Inumani",
+                    "releaseDate": [29, 9, 2017]
+                },
+                {
+                    "season": 1,
+                    "episode": 2,
+                    "title": "Quelli che ci distruggerebbero",
+                    "releaseDate": [29, 9, 2017]
+                },
+                { "season": 1, "episode": 3, "title": "Dividi e conquista", "releaseDate": [6, 10, 2017] },
+                {
+                    "season": 1,
+                    "episode": 4,
+                    "title": "Fate largo a Medusa",
+                    "releaseDate": [13, 10, 2017]
+                },
+                {
+                    "season": 1,
+                    "episode": 5,
+                    "title": "Qualcosa di Inumano viene da questa parte...",
+                    "releaseDate": [20, 10, 2017]
+                },
+                {
+                    "season": 1,
+                    "episode": 6,
+                    "title": "Quel gentiluomo si chiama Gorgon",
+                    "releaseDate": [27, 10, 2017]
+                },
+                {
+                    "season": 1,
+                    "episode": 7,
+                    "title": "Caos nella Terra nascosta",
+                    "releaseDate": [3, 11, 2017]
+                },
+                {
+                    "season": 1,
+                    "episode": 8,
+                    "title": "... E finalmente: Black Bolt",
+                    "releaseDate": [10, 11, 2017]
+                }
+            ]
+        },
+        {
+            "type": "Serie TV",
+            "name": "The Defenders",
+            "img": "Defenders1.jpg",
+            "phase": "Nessuna",
+            "episodes": [
+                { "season": 1, "episode": 1, "title": "Una famosa supereroina", "releaseDate": [18, 8, 2017] },
+                { "season": 1, "episode": 2, "title": "Un bel gancio destro", "releaseDate": [18, 8, 2017] },
+                { "season": 1, "episode": 3, "title": "Il comportamento peggiore", "releaseDate": [18, 8, 2017] },
+                { "season": 1, "episode": 4, "title": "Il drago felice", "releaseDate": [18, 8, 2017] },
+                { "season": 1, "episode": 5, "title": "Al sicuro", "releaseDate": [18, 8, 2017] },
+                { "season": 1, "episode": 6, "title": "Ceneri, ceneri", "releaseDate": [18, 8, 2017] },
+                { "season": 1, "episode": 7, "title": "In prigione", "releaseDate": [18, 8, 2017] },
+                { "season": 1, "episode": 8, "title": "The Defenders", "releaseDate": [18, 8, 2017] }
+            ]
+        },
+        {
+            "type": "Serie TV",
+            "name": "Iron Fist",
+            "img": "IronFist1.jpg",
+            "phase": "Nessuna",
+            "episodes": [
+                { "season": 1, "episode": 1, "title": "La neve cede", "releaseDate": [17, 3, 2017] },
+                {
+                    "season": 1,
+                    "episode": 2,
+                    "title": "Dall'ombra il falco spicca il volo",
+                    "releaseDate": [17, 3, 2017] },
+                {
+                    "season": 1,
+                    "episode": 3,
+                    "title": "Tuono roboante, pugno cannone",
+                    "releaseDate": [17, 3, 2017] },
+                {
+                    "season": 1,
+                    "episode": 4,
+                    "title": "Il palmo degli otto diagrammi del drago",
+                    "releaseDate": [17, 3, 2017] },
+                {
+                    "season": 1,
+                    "episode": 5,
+                    "title": "Cogliere il loto sotto la foglia",
+                    "releaseDate": [17, 3, 2017] },
+                {
+                    "season": 1,
+                    "episode": 6,
+                    "title": "L'immortale emerge dalla grotta",
+                    "releaseDate": [17, 3, 2017] },
+                {
+                    "season": 1,
+                    "episode": 7,
+                    "title": "Abbattere l'albero con le radici",
+                    "releaseDate": [17, 3, 2017] },
+                {
+                    "season": 1,
+                    "episode": 8,
+                    "title": "La benedizione delle fratture multiple",
+                    "releaseDate": [17, 3, 2017] },
+                {
+                    "season": 1,
+                    "episode": 9,
+                    "title": "La signora delle mille agonie",
+                    "releaseDate": [17, 3, 2017] },
+                {
+                    "season": 1,
+                    "episode": 10,
+                    "title": "La tigre nera strappa il cuore",
+                    "releaseDate": [17, 3, 2017] },
+                {
+                    "season": 1,
+                    "episode": 11,
+                    "title": "Riportare il cavallo nella stalla",
+                    "releaseDate": [17, 3, 2017] },
+                { "season": 1, "episode": 12, "title": "Bloccare il grande capo", "releaseDate": [17, 3, 2017] },
+                {
+                    "season": 1,
+                    "episode": 13,
+                    "title": "Il drago gioca con il fuoco",
+                    "releaseDate": [17, 3, 2017] 
+                },
+
+                {
+                    "season": 2,
+                    "episode": 1,
+                    "title": "La furia dell'Iron Fist",
+                    "releaseDate": [7, 9, 2018]
+                },
+                {
+                    "season": 2,
+                    "episode": 2,
+                    "title": "Non si brucia la città!",
+                    "releaseDate": [7, 9, 2018]
+                },
+                { "season": 2, "episode": 3, "title": "Un segreto mortale", "releaseDate": [7, 9, 2018] },
+                { "season": 2, "episode": 4, "title": "Bersaglio: Iron Fist", "releaseDate": [7, 9, 2018] },
+                {
+                    "season": 2,
+                    "episode": 5,
+                    "title": "Il cuore del drago",
+                    "releaseDate": [7, 9, 2018]
+                },
+                {
+                    "season": 2,
+                    "episode": 6,
+                    "title": "Il drago muore all'alba",
+                    "releaseDate": [7, 9, 2018]
+                },
+                {
+                    "season": 2,
+                    "episode": 7,
+                    "title": "La mente è fragile",
+                    "releaseDate": [7, 9, 2018]
+                },
+                {
+                    "season": 2,
+                    "episode": 8,
+                    "title": "Un luogo chiamato vendetta",
+                    "releaseDate": [7, 9, 2018]
+                },
+                { "season": 2, "episode": 9, "title": "Guerra senza fine", "releaseDate": [7, 9, 2018] },
+                { "season": 2, "episode": 10, "title": "Un duello d'acciaio", "releaseDate": [7, 9, 2018] }
+            ]
+        },
+        {
+            "type": "Serie TV",
+            "name": "The Punisher",
+            "img": "Punisher1.jpg",
+            "phase": "Nessuna",
+            "episodes": [
+                { "season": 1, "episode": 1, "title": "3:00", "releaseDate": [17, 11, 2017] },
+                { "season": 1, "episode": 2, "title": "Due morti", "releaseDate": [17, 11, 2017] },
+                { "season": 1, "episode": 3, "title": "Kandahar", "releaseDate": [17, 11, 2017] },
+                { "season": 1, "episode": 4, "title": "Rifornimento", "releaseDate": [17, 11, 2017] },
+                { "season": 1, "episode": 5, "title": "Gunner", "releaseDate": [17, 11, 2017] },
+                { "season": 1, "episode": 6, "title": "Il caprone", "releaseDate": [17, 11, 2017] },
+                { "season": 1, "episode": 7, "title": "Reticolo di puntamento", "releaseDate": [17, 11, 2017] },
+                { "season": 1, "episode": 8, "title": "Acciaio freddo", "releaseDate": [17, 11, 2017] },
+                { "season": 1, "episode": 9, "title": "Fronte verso il nemico", "releaseDate": [17, 11, 2017] },
+                {
+                    "season": 1,
+                    "episode": 10,
+                    "title": "La virtù dei perversi",
+                    "releaseDate": [17, 11, 2017]
+                },
+                { "season": 1, "episode": 11, "title": "Pericolo di contatto", "releaseDate": [17, 11, 2017] },
+                { "season": 1, "episode": 12, "title": "Casa", "releaseDate": [17, 11, 2017] },
+                { "season": 1, "episode": 13, "title": "Memento Mori", "releaseDate": [17, 11, 2017] },
+
+                { "season": 2, "episode": 1, "title": "Il blues della Roadhouse", "releaseDate": [18, 1, 2019] },
+                { "season": 2, "episode": 2, "title": "Combatti o fuggi", "releaseDate": [18, 1, 2019] },
+                { "season": 2, "episode": 3, "title": "Agitare le acque", "releaseDate": [18, 1, 2019] },
+                { "season": 2, "episode": 4, "title": "Tessuto cicatriziale", "releaseDate": [18, 1, 2019] },
+                { "season": 2, "episode": 5, "title": "One-Eyed Jacks", "releaseDate": [18, 1, 2019] },
+                { "season": 2, "episode": 6, "title": "Nakazat", "releaseDate": [18, 1, 2019] },
+                { "season": 2, "episode": 7, "title": "Una brutta giornata", "releaseDate": [18, 1, 2019] },
+                {
+                    "season": 2,
+                    "episode": 8,
+                    "title": "Il guardiano di mio fratello",
+                    "releaseDate": [18, 1, 2019]
+                },
+                { "season": 2, "episode": 9, "title": "Un bel casotto", "releaseDate": [18, 1, 2019] },
+                {
+                    "season": 2,
+                    "episode": 10,
+                    "title": "Il cuore nero degli uomini",
+                    "releaseDate": [18, 1, 2019]
+                },
+                { "season": 2, "episode": 11, "title": "L'abisso", "releaseDate": [18, 1, 2019] },
+                { "season": 2, "episode": 12, "title": "Rotta di collisione", "releaseDate": [18, 1, 2019] },
+                { "season": 2, "episode": 13, "title": "L'uragano", "releaseDate": [18, 1, 2019] }
+            ]
+        },
+        {
+            "type": "Serie TV",
+            "name": "Runaways",
+            "img": "Runaways1.jpg",
+            "phase": "Nessuna",
+            "episodes": [
+                { "season": 1, "episode": 1, "title": "Riunione", "releaseDate": [21, 11, 2017] },
+                { "season": 1, "episode": 2, "title": "Rewind", "releaseDate": [21, 11, 2017] },
+                { "season": 1, "episode": 3, "title": "Destiny", "releaseDate": [21, 11, 2017] },
+                { "season": 1, "episode": 4, "title": "Quindici", "releaseDate": [28, 11, 2017] },
+                { "season": 1, "episode": 5, "title": "Regno", "releaseDate": [5, 12, 2017] },
+                { "season": 1, "episode": 6, "title": "Metamorfosi", "releaseDate": [12, 12, 2017] },
+                { "season": 1, "episode": 7, "title": "Rifrazione", "releaseDate": [19, 12, 2017] },
+                { "season": 1, "episode": 8, "title": "Tsunami", "releaseDate": [26, 12, 2017] },
+                { "season": 1, "episode": 9, "title": "Doomsday", "releaseDate": [2, 1, 2018] },
+                { "season": 1, "episode": 10, "title": "Ostili", "releaseDate": [9, 1, 2018] },
+
+                { "season": 2, "episode": 1, "title": "Cercasi Rifugio", "releaseDate": [21, 12, 2018] },
+                { "season": 2, "episode": 2, "title": "Radio On", "releaseDate": [21, 12, 2018] },
+                { "season": 2, "episode": 3, "title": "Doppi Zeri", "releaseDate": [21, 12, 2018] },
+                { "season": 2, "episode": 4, "title": "Vecchia Scuola", "releaseDate": [21, 12, 2018] },
+                { "season": 2, "episode": 5, "title": "Sul Fondo", "releaseDate": [21, 12, 2018] },
+                { "season": 2, "episode": 6, "title": "Un'altra Sepoltura", "releaseDate": [21, 12, 2018] },
+                { "season": 2, "episode": 7, "title": "Ultimi Riti", "releaseDate": [21, 12, 2018] },
+                { "season": 2, "episode": 8, "title": "Vita Passata", "releaseDate": [21, 12, 2018] },
+                { "season": 2, "episode": 9, "title": "Colpo Grosso", "releaseDate": [21, 12, 2018] },
+                { "season": 2, "episode": 10, "title": "Scambi Ostili", "releaseDate": [21, 12, 2018] },
+                { "season": 2, "episode": 11, "title": "L'ultimo Valzer", "releaseDate": [21, 12, 2018] },
+                { "season": 2, "episode": 12, "title": "Angelo sulla Terra", "releaseDate": [21, 12, 2018] },
+                { "season": 2, "episode": 13, "title": "Separati", "releaseDate": [21, 12, 2018] },
+
+                { "season": 3, "episode": 1, "title": "Fumo negli occhi", "releaseDate": [13, 12, 2019] },
+                { "season": 3, "episode": 2, "title": "La grande fuga", "releaseDate": [13, 12, 2019] },
+                { "season": 3, "episode": 3, "title": "Il signore delle menzogne", "releaseDate": [13, 12, 2019] },
+                { "season": 3, "episode": 4, "title": "Il rito del tuono", "releaseDate": [13, 12, 2019] },
+                {
+                    "season": 3,
+                    "episode": 5,
+                    "title": "Il mondo dei sogni",
+                    "releaseDate": [13, 12, 2019]
+                },
+                { "season": 3, "episode": 6, "title": "Di nuovo insieme", "releaseDate": [13, 12, 2019] },
+                { "season": 3, "episode": 7, "title": "Cammino sinistro", "releaseDate": [13, 12, 2019] },
+                {
+                    "season": 3,
+                    "episode": 8,
+                    "title": "La camera di tortura del diavolo",
+                    "releaseDate": [13, 12, 2019]
+                },
+                { "season": 3, "episode": 9, "title": "Il cerchio spezzato", "releaseDate": [13, 12, 2019] },
+                {
+                    "season": 3,
+                    "episode": 10,
+                    "title": "Evitare la forca",
+                    "releaseDate": [13, 12, 2019]
+                }
+            ]
+        },
+        {
+            "type": "Cortometraggio",
+            "name": "Team Thor: Where Are They Now?",
+            "phase": "Nessuna",
+            "img": "TeamThor2.jpg",
+            "releaseDate": [14, 2, 2017]
+        },
+        {
+            "type": "Film",
+            "name": "Guardians of the Galaxy Vol. 2",
+            "releaseDate": [5, 5, 2017],
+            "phase": "Tre",
+            "img": "Guardians2.jpg"
+        },
+        {
+            "type": "Film",
+            "name": "Spider-Man: Homecoming",
+            "releaseDate": [7, 7, 2017],
+            "phase": "Tre",
+            "img": "SpiderMan1.jpg"
+        },
+        {
+            "type": "Film",
+            "name": "Thor: Ragnarok",
+            "releaseDate": [3, 11, 2017],
+            "phase": "Tre",
+            "img": "Thor3.jpg"
+        },
+        {
+            "type": "Serie TV",
+            "name": "Cloak & Dagger",
+            "img": "CloakAndDagger1.jpg",
+            "phase": "Nessuna",
+            "episodes": [
+                { "season": 1, "episode": 1, "title": "First Light", "releaseDate": [7, 6, 2018] },
+                { "season": 1, "episode": 2, "title": "Suicide Sprints", "releaseDate": [7, 6, 2018] },
+                { "season": 1, "episode": 3, "title": "Stained Glass", "releaseDate": [24, 6, 2018] },
+                { "season": 1, "episode": 4, "title": "Call/Response", "releaseDate": [21, 6, 2018] },
+                { "season": 1, "episode": 5, "title": "Princeton Offense", "releaseDate": [28, 6, 2018] },
+                { "season": 1, "episode": 6, "title": "Funhouse Mirrors", "releaseDate": [5, 7, 2018] },
+                { "season": 1, "episode": 7, "title": "Lotus Eaters", "releaseDate": [12, 7, 2018] },
+                { "season": 1, "episode": 8, "title": "Ghost Stories", "releaseDate": [19, 7, 2018] },
+                { "season": 1, "episode": 9, "title": "Back Breaker", "releaseDate": [26, 7, 2018] },
+                { "season": 1, "episode": 10, "title": "Colony Collapse", "releaseDate": [2, 8, 2018] },
+
+                { "season": 2, "episode": 1, "title": "Energia irrequieta", "releaseDate": [4, 4, 2019] },
+                { "season": 2, "episode": 2, "title": "Linee bianche", "releaseDate": [4, 4, 2019] },
+                { "season": 2, "episode": 3, "title": "Sdoppiamenti mortali", "releaseDate": [11, 4, 2019] },
+                { "season": 2, "episode": 4, "title": "In un'altra dimensione", "releaseDate": [18, 4, 2019] },
+                { "season": 2, "episode": 5, "title": "Allineamento morale", "releaseDate": [25, 4, 2019] },
+                { "season": 2, "episode": 6, "title": "Vite alternative", "releaseDate": [2, 5, 2019] },
+                { "season": 2, "episode": 7, "title": "Fortezza vichinga", "releaseDate": [9, 5, 2019] },
+                { "season": 2, "episode": 8, "title": "Due giocatori", "releaseDate": [16, 5, 2019] },
+                { "season": 2, "episode": 9, "title": "Blue Note", "releaseDate": [23, 5, 2019] },
+                { "season": 2, "episode": 10, "title": "Salire di livello", "releaseDate": [30, 5, 2019] }
+            ]
+        },
+        {
+            "type": "Film",
+            "name": "Black Panther",
+            "releaseDate": [16, 2, 2018],
+            "phase": "Tre",
+            "img": "BlackPanther1.jpg"
+        },
+        {
+            "type": "Cortometraggio",
+            "name": "Team Darryl",
+            "phase": "Nessuna",
+            "img": "TeamThor3.jpg",
+            "releaseDate": [20, 2, 2018]
+        },
+        {
+            "type": "Film",
+            "name": "Avengers: Infinity War",
+            "releaseDate": [27, 4, 2018],
+            "phase": "Tre",
+            "img": "Avengers3.jpg"
+        },
+        {
+            "type": "Film",
+            "name": "Ant-Man and the Wasp",
+            "releaseDate": [6, 7, 2018],
+            "phase": "Tre",
+            "img": "AntMan2.jpg"
+        },
+        {
+            "type": "Film",
+            "name": "Captain Marvel",
+            "img": "CaptainMarvel1.jpg",
+            "releaseDate": [8, 3, 2019],
+            "phase": "Tre"
+        },
+        {
+            "type": "Film",
+            "name": "Avengers: Endgame",
+            "img": "Avengers4.jpg",
+            "releaseDate": [26, 4, 2019],
+            "phase": "Tre"
+        },
+        {
+            "type": "Film",
+            "name": "Spiderman: Far From Home",
+            "img": "SpiderMan2.jpg",
+            "releaseDate": [5, 7, 2019],
+            "phase": "Tre"
+        },
+        {
+            "type": "Serie TV",
+            "name": "Helstrom",
+            "img": "Helstrom1.jpg",
+            "phase": "Nessuna",
+            "episodes": [
+                {
+                    "season": 1,
+                    "episode": 1,
+                    "title": "I piccoli aiutanti della madre",
+                    "releaseDate": [16, 10, 2020]
+                },
+                { "season": 1, "episode": 2, "title": "Viatico", "releaseDate": [16, 10, 2020] },
+                {
+                    "season": 1,
+                    "episode": 3,
+                    "title": "Colui che riuscì a fuggire",
+                    "releaseDate": [16, 10, 2020]
+                },
+                { "season": 1, "episode": 4, "title": "Contenimento", "releaseDate": [16, 10, 2020] },
+                { "season": 1, "episode": 5, "title": "Impegno", "releaseDate": [16, 10, 2020] },
+                { "season": 1, "episode": 6, "title": "Leviatano", "releaseDate": [16, 10, 2020] },
+                { "season": 1, "episode": 7, "title": "Cicatrici", "releaseDate": [16, 10, 2020] },
+                { "season": 1, "episode": 8, "title": "Sotterraneo", "releaseDate": [16, 10, 2020] },
+                { "season": 1, "episode": 9, "title": "Vascelli", "releaseDate": [16, 10, 2020] },
+                { "season": 1, "episode": 10, "title": "Tempesta infernale", "releaseDate": [16, 10, 2020] }
+            ]
+        },
+        {
+            "type": "Serie TV",
+            "name": "WandaVision",
+            "img": "WandaVision1.jpg",
+            "phase": "Quattro",
+            "episodes": [
+                {
+                    "season": 1,
+                    "episode": 1,
+                    "title": "Girato davanti a un pubblico in studio",
+                    "releaseDate": [29, 1, 2021]
+                },
+                {
+                    "season": 1,
+                    "episode": 2,
+                    "title": "Non cambiare canale",
+                    "releaseDate": [15, 1, 2021]
+                },
+                { "season": 1, "episode": 3, "title": "Ora a colori", "releaseDate": [22, 1, 2021] },
+                {
+                    "season": 1,
+                    "episode": 4,
+                    "title": "Interrompiamo questo programma",
+                    "releaseDate": [29, 1, 2021]
+                },
+                {
+                    "season": 1,
+                    "episode": 5,
+                    "title": "In questo episodio molto speciale",
+                    "releaseDate": [5, 2, 2021]
+                },
+                {
+                    "season": 1,
+                    "episode": 6,
+                    "title": "Nuovissimo Halloween spaventacolare!",
+                    "releaseDate": [12, 2, 2021]
+                },
+                {
+                    "season": 1,
+                    "episode": 7,
+                    "title": "Infrangere la quarta parete",
+                    "releaseDate": [19, 2, 2021]
+                },
+                { "season": 1, "episode": 8, "title": "Negli episodi precedenti", "releaseDate": [26, 2, 2021] },
+                { "season": 1, "episode": 9, "title": "Finale della serie", "releaseDate": [5, 3, 2021] }
+            ]
+        },
+        {
+            "type": "Serie TV",
+            "name": "The Falcon and the Winter Soldier",
+            "img": "FalconWinterSoldier1.jpg",
+            "phase": "Quattro",
+            "episodes": [
+                { "season": 1, "episode": 1, "title": "Il nuovo ordine mondiale", "releaseDate": [19, 3, 2021] },
+                {
+                    "season": 1,
+                    "episode": 2,
+                    "title": "L'uomo a stelle e strisce",
+                    "releaseDate": [26, 3, 2021]
+                },
+                { "season": 1, "episode": 3, "title": "Power Broker", "releaseDate": [2, 4, 2021] },
+                {
+                    "season": 1,
+                    "episode": 4,
+                    "title": "Il mondo intero ci guarda",
+                    "releaseDate": [9, 4, 2021]
+                },
+                { "season": 1, "episode": 5, "title": "Verità", "releaseDate": [16, 4, 2021] },
+                {
+                    "season": 1,
+                    "episode": 6,
+                    "title": "Un mondo, un popolo",
+                    "releaseDate": [23, 4, 2021]
+                }
+            ]
+        },
+        {
+            "type": "Serie TV",
+            "name": "Loki",
+            "img": "Loki1.jpg",
+            "phase": "Quattro",
+            "episodes": [
+                { "season": 1, "episode": 1, "title": "Gloriosi propositi", "releaseDate": [9, 6, 2021] },
+                { "season": 1, "episode": 2, "title": "La Variante", "releaseDate": [16, 6, 2021] },
+                { "season": 1, "episode": 3, "title": "Lamentis", "releaseDate": [23, 6, 2021] },
+                { "season": 1, "episode": 4, "title": "L'evento Nexus", "releaseDate": [30, 6, 2021] },
+                {
+                    "season": 1,
+                    "episode": 5,
+                    "title": "Viaggio nel mistero",
+                    "releaseDate": [7, 7, 2021]
+                },
+                {
+                    "season": 1,
+                    "episode": 6,
+                    "title": "Per tutti i tempi. Sempre",
+                    "releaseDate": [14, 7, 2021]
+                }
+            ]
+        },
+        {
+            "type": "Serie TV",
+            "name": "What If...?",
+            "img": "WhatIf1.jpg",
+            "phase": "Quattro",
+            "episodes": [
+                {
+                    "season": 1,
+                    "episode": 1,
+                    "title": "E se... Captain Carter fosse stata il primo Vendicatore?",
+                    "releaseDate": [11, 8, 2021]
+                },
+                {
+                    "season": 1,
+                    "episode": 2,
+                    "title": "E se... T'Challa fosse diventato Star-Lord?",
+                    "releaseDate": [18, 8, 2021]
+                },
+                {
+                    "season": 1,
+                    "episode": 3,
+                    "title": "E se... il mondo avesse perso i suoi eroi più potenti?",
+                    "releaseDate": [25, 8, 2021]
+                },
+                {
+                    "season": 1,
+                    "episode": 4,
+                    "title": "E se... il Dottor Strange avesse perso il cuore invece delle mani?",
+                    "releaseDate": [1, 9, 2021]
+                },
+                {
+                    "season": 1,
+                    "episode": 5,
+                    "title": "E se... gli zombie invadessero la Terra?",
+                    "releaseDate": [8, 9, 2021]
+                },
+                {
+                    "season": 1,
+                    "episode": 6,
+                    "title": "E se... Killmonger avesse salvato Tony Stark?",
+                    "releaseDate": [15, 9, 2021]
+                },
+                {
+                    "season": 1,
+                    "episode": 7,
+                    "title": "E se... Thor fosse stato figlio unico?",
+                    "releaseDate": [22, 9, 2021]
+                },
+                {
+                    "season": 1,
+                    "episode": 8,
+                    "title": "E se... Ultron avesse vinto?",
+                    "releaseDate": [29, 9, 2021]
+                },
+                {
+                    "season": 1,
+                    "episode": 9,
+                    "title": "E se... l'Osservatore avesse infranto il proprio giuramento?",
+                    "releaseDate": [6, 10, 2021]
+                }
+            ]
+        },
+        {
+            "type": "Serie TV",
+            "name": "Hawkeye",
+            "img": "Hawkeye1.jpg",
+            "phase": "Quattro",
+            "episodes": [
+                {
+                    "season": 1,
+                    "episode": 1,
+                    "title": "Mai incontrare i propri eroi",
+                    "releaseDate": [24, 11, 2021]
+                },
+                { "season": 1, "episode": 2, "title": "Nascondino", "releaseDate": [24, 11, 2021] },
+                { "season": 1, "episode": 3, "title": "Eco", "releaseDate": [1, 12, 2021] },
+                {
+                    "season": 1,
+                    "episode": 4,
+                    "title": "Siamo partner, no?",
+                    "releaseDate": [8, 12, 2021]
+                },
+                { "season": 1, "episode": 5, "title": "Ronin", "releaseDate": [15, 12, 2021] },
+                {
+                    "season": 1,
+                    "episode": 6,
+                    "title": "Buon Natale a me!",
+                    "releaseDate": [22, 12, 2021]
+                }
+            ]
+        },
+        {
+            "type": "Film",
+            "name": "Black Widow",
+            "releaseDate": [9, 7, 2021],
+            "phase": "Quattro",
+            "img": "BlackWidow1.jpg"
+        },
+        {
+            "type": "Film",
+            "name": "Shang-Chi e la Leggenda dei Dieci Anelli",
+            "releaseDate": [3, 9, 2021],
+            "phase": "Quattro",
+            "img": "ShangChi1.jpg"
+        },
+        {
+            "type": "Film",
+            "name": "Eternals",
+            "releaseDate": [5, 11, 2021],
+            "phase": "Quattro",
+            "img": "Eternals1.jpg"
+        },
+        {
+            "type": "Film",
+            "name": "Spiderman: No Way home",
+            "img": "SpiderMan3.jpg",
+            "releaseDate": [17, 12, 2021],
+            "phase": "Quattro"
+        },
+        {
+            "type": "Serie TV",
+            "name": "Moon Knight",
+            "img": "MoonKnight1.jpg",
+            "phase": "Quattro",
+            "episodes": [
+                {
+                    "season": 1,
+                    "episode": 1,
+                    "title": "Il pesce monopinna",
+                    "releaseDate": [30, 3, 2022]
+                },
+                { "season": 1, "episode": 2, "title": "Evoca il costume", "releaseDate": [6, 4, 2022] },
+                { "season": 1, "episode": 3, "title": "Un tipo amichevole ", "releaseDate": [13, 4, 2022] },
+                { "season": 1, "episode": 4, "title": "La tomba", "releaseDate": [20, 4, 2022] },
+                { "season": 1, "episode": 5, "title": "Il manicomio", "releaseDate": [27, 4, 2022] },
+                { "season": 1, "episode": 6, "title": "Dei e Mostri", "releaseDate": [4, 5, 2022] }
+            ]
+        },
+        {
+            "type": "Serie TV",
+            "name": "Ms. Marvel",
+            "img": "MsMarvel1.jpg",
+            "phase": "Quattro",
+            "episodes": [
+                { "season": 1, "episode": 1, "title": "Generation Why", "releaseDate": [8, 6, 2022] },
+                { "season": 1, "episode": 2, "title": "Crushed", "releaseDate": [15, 6, 2022] },
+                { "season": 1, "episode": 3, "title": "Destined", "releaseDate": [22, 6, 2022] },
+                { "season": 1, "episode": 4, "title": "Seeing Red", "releaseDate": [29, 6, 2022] },
+                { "season": 1, "episode": 5, "title": "Time and Again", "releaseDate": [6, 7, 2022] },
+                { "season": 1, "episode": 6, "title": "No Normal", "releaseDate": [13, 7, 2022] }
+            ]
+        },
+        {
+            "type": "Serie TV",
+            "name": "Io sono Groot",
+            "img": "IoSonoGroot.jpg",
+            "phase": "Quattro",
+            "episodes": [
+                { "season": 1, "episode": 1, "title": "I primi passi di Groot", "releaseDate": [10, 8, 2022] },
+                { "season": 1, "episode": 2, "title": "Il piccoletto", "releaseDate": [10, 8, 2022] },
+                { "season": 1, "episode": 3, "title": "Il passatempo di Groot", "releaseDate": [10, 8, 2022] },
+                { "season": 1, "episode": 4, "title": "Groot fa il bagno", "releaseDate": [10, 8, 2022] },
+                { "season": 1, "episode": 5, "title": "Magnum Opus", "releaseDate": [10, 8, 2022] }
+            ]
+        },
+        {
+            "type": "Serie TV",
+            "name": "She-Hulk: Attorney at Law",
+            "img": "SheHulk1.jpg",
+            "phase": "Quattro",
+            "episodes": [
+                { "season": 1, "episode": 1, "title": "Un normale livello di rabbia", "releaseDate": [17, 8, 2022] },
+                { "season": 1, "episode": 2, "title": "Super Giurisprudenza", "releaseDate": [24, 8, 2022] },
+                { "season": 1, "episode": 3, "title": "Il popolo contro Emil Blonsky", "releaseDate": [31, 8, 2022] },
+                { "season": 1, "episode": 4, "title": "-", "releaseDate": [7, 9, 2022] },
+                { "season": 1, "episode": 5, "title": "-", "releaseDate": [24, 9, 2022] },
+                { "season": 1, "episode": 6, "title": "-", "releaseDate": [21, 9, 2022] },
+                { "season": 1, "episode": 7, "title": "-", "releaseDate": [28, 9, 2022] },
+                { "season": 1, "episode": 8, "title": "-", "releaseDate": [5, 10, 2022] },
+                { "season": 1, "episode": 9, "title": "-", "releaseDate": [12, 10, 2022] }
+            ]
+        },
+        {
+            "type": "Film",
+            "name": "Doctor Strange nel Multiverso della Follia",
+            "img": "DrStrange2.jpg",
+            "releaseDate": [6, 5, 2022],
+            "phase": "Quattro"
+        },
+        {
+            "type": "Film",
+            "name": "Thor: Love and Thunder",
+            "img": "Thor4.jpg",
+            "releaseDate": [8, 7, 2022],
+            "phase": "Quattro"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "mcu",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --emptyOutDir",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8",
+    "vite": "^3.0.7",
+    "vite-plugin-babel": "^1.1.2",
+    "vite-plugin-minify": "^1.5.2",
+    "vite-plugin-static-copy": "^0.9.0"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}

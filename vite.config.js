@@ -12,18 +12,18 @@ export default defineConfig({
       input: path.resolve(__dirname, "src/index.html"),
     },
   },
-assetsInclude: ['**/*.json'],
+  assetsInclude: ['**/*.json'],
   plugins: [
-      ViteMinifyPlugin({ }),
-      babel(),
-      /* viteStaticCopy({
-        targets: [
-          {
-            src: path.join(__dirname, 'src/assets/API-MCU.json'),
-            dest: 'assets'
-          }
-        ]
-      }), */
+    ViteMinifyPlugin({}),
+    babel(),
+    /* viteStaticCopy({
+      targets: [
+        {
+          src: path.join(__dirname, 'src/assets/API-MCU.json'),
+          dest: 'assets'
+        }
+      ]
+    }), */
   ],
 })
 
